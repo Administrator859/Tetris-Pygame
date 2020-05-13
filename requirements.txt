@@ -1,0 +1,5 @@
+***YOU NEED TO INSTALL THIS***
+
+--python 3x(https://www.python.org/downloads/)
+
+--pygame
