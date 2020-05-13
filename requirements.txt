@@ -3,3 +3,9 @@
 --python 3x(https://www.python.org/downloads/)
 
 --pygame
+
+***FILES NEEDED***
+
+--scores.txt(this store some of your scores)
+
+--tetris.py(main)
